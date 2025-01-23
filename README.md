@@ -1,7 +1,6 @@
 # my_blockchain
 
-attempt to understand blockchain little better,
-not 
+attempt to understand blockchain little better
 
 ## steps
 
