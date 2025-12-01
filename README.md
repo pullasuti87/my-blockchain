@@ -1,6 +1,6 @@
-# my_blockchain
+# my blockchain
 
-attempt to understand blockchain little better
+to understand blockchain little better
 
 ## steps
 
@@ -10,8 +10,6 @@ attempt to understand blockchain little better
 - create first block, no prev block
 - run blockchain
 
-## things to lookup/todos
-
-- proof of work (pow) consensus mechanism also there is proof of stake in used
+## things to todos
 - peer to peer network (p2p)
 
